@@ -1,12 +1,12 @@
 ### Hi, I'm Pavel Vychuzhanin 👋
 
 Machine Learning Researcher and PhD student at ITMO University. I also contribute to [FEDOT](https://github.com/nccr-itmo/FEDOT) framework.
-The interests are AutoML, optimization and machine learning systems. 
+My interests are AutoML, optimization, machine learning systems, and software architecture. 
 
 You can check [GoogleScholar](https://scholar.google.com/citations?user=zgaqR3cAAAAJ) for my research papers.
 How to reach me: pavel.vychuzhanin@gmail.com or in [LinkedIn](https://www.linkedin.com/in/pavel-vychuzhanin-5233541a8/).
 
-Some of my publications, talks and presentations:
+Some of my publications, talks, and presentations:
 
 In English:
 - [How AutoML helps to create composite AI?](https://towardsdatascience.com/how-automl-helps-to-create-composite-ai-f09e05287563) - TDS, June 2021
