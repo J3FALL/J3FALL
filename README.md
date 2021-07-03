@@ -1,13 +1,9 @@
 ### Hi, I'm Pavel Vychuzhanin 👋
 
-Machine Learning Researcher and PhD student at ITMO University.
-
-I also contribute to [FEDOT](https://github.com/nccr-itmo/FEDOT) framework.
-
+Machine Learning Researcher and PhD student at ITMO University. I also contribute to [FEDOT](https://github.com/nccr-itmo/FEDOT) framework.
 The interests are AutoML, optimization and machine learning systems. 
 
 You can check [GoogleScholar](https://scholar.google.com/citations?user=zgaqR3cAAAAJ) for my research papers.
-
 How to reach me: pavel.vychuzhanin@gmail.com or in [LinkedIn](https://www.linkedin.com/in/pavel-vychuzhanin-5233541a8/).
 
 Some of my publications, talks and presentations:
